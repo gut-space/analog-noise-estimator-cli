@@ -1,0 +1,4 @@
+scipy
+matplotlib==3.0.3
+opencv-python
+-e git+https://github.com/gut-space/analog-noise-estimator.git#egg=analog-noise-estimator
